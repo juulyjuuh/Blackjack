@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url(/imagens.img/fundo.jpeg);
+    background-image: url(/FTBJK.jpeg);
     color: #ecf0f1;
     display: flex;
     justify-content: center;
@@ -40,7 +40,7 @@ button {
 }
 
 button:hover {
-    background-color: #cc2e2e;
+    background-color: #2ecc71;
 }
 
 #message {
@@ -51,4 +51,14 @@ button:hover {
 
 p {
     margin: 10px 0;
+}
+
+footer {
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    background-color: #000000;
+    position: absolute;
+    bottom: 0;
+    font-size: 12px; 
 }
